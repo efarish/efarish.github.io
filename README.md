@@ -13,4 +13,4 @@
 
 ## Machine Learning Projects
 * Retrieval-Augmented Generation (RAG):
-  * Example   
+  * Simple RAG: An AWS ECS endpoint using OpenAI, LangChain, and Flask called by a Streamlit frontend.   
