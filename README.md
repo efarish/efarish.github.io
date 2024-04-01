@@ -13,4 +13,5 @@
 
 ## Machine Learning Projects
 * Retrieval-Augmented Generation (RAG):
-  * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): An AWS ECS endpoint using OpenAI, LangChain, and Flask called by a Streamlit frontend.   
+  * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): An AWS ECS endpoint using OpenAI, LangChain, and Flask called by a Streamlit frontend.
+  * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Uses LangChain to create a conversation memory to be used later in the chat.
