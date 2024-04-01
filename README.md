@@ -12,7 +12,7 @@
 * Platforms: Colab, SageMaker, and Anaconda
 
 ## Machine Learning Projects
-* Retrieval-Augmented Generation (RAG):
-  * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): An AWS ECS endpoint using OpenAI, LangChain, and Flask called by a Streamlit frontend.
-  * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Uses LangChain to create a conversation memory to be used later in the chat.
-
+* LLM Retrieval-Augmented Generation (RAG): Using AWS, Streamlit, GPT-3.5, and LangChain  
+  * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
+  * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
+  * Corrective RAG: Evaluates retrieved context and rewrites search requests for better results. 
