@@ -3,19 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  color: #fff;
-}
-
-.wide {
-  
-  .page {
-    // override right padding and width's to make wide
-  }
-
-  .sidebar__right {
-    // override negative margin, width, positioning, etc.
-  }
-
-  // any other overrides needed for a wide `.page`
+h1, h2, h3, h4, h5, h6 {
+  color:#008000;
+  margin:0 0 20px;
 }
