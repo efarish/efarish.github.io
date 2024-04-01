@@ -3,3 +3,7 @@ logo: /assets/img/me4.jpg
 description: Machine Learning Portfolio
 #show_downloads: true
 theme: jekyll-theme-minimal
+format:
+  html:
+    grid:
+      sidebar-width: 50px
