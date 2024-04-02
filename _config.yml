@@ -7,6 +7,13 @@ format:
   html:
     grid:
       sidebar-width: 50px
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: LinkedIn
+  internal: false
+  url: https://www.linkedin.com/in/eric-farish-ba86692
       
 sidebar:
   - name: LinkedIn
