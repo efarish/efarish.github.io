@@ -13,7 +13,7 @@
 
 ## Machine Learning Projects
 * [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Implementations of common ML algorithms such as Random Forests, MLP, CNN, etc. 
-* LLM Retrieval-Augmented Generation (RAG): Using AWS, Streamlit, GPT-3.5, and LangChain  
+* [LLM Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm): Implemented using AWS, Streamlit, OpenAI, and LangChain  
   * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.  
