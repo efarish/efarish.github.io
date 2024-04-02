@@ -20,4 +20,4 @@
   * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
 * Research Projets:
-  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid) 
+  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of factors that lead to COVID-19 mortality.
