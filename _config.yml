@@ -7,3 +7,6 @@ format:
   html:
     grid:
       sidebar-width: 50px
+sidebar:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/eric-farish-ba86692
