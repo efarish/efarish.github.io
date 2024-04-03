@@ -11,7 +11,7 @@
 * Technologies: Deep Learning, NLP Large Language Models (LLM) 
 * Platforms: Colab, SageMaker, and Anaconda
 
-## Machine Learning Projects
+## Machine Learning Projects ([all projects](https://github.com/efarish/portfolio))
 * [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Implementations of common ML algorithms such as Random Forests, MLP, CNN, etc.
   * [Classification Examples](https://github.com/efarish/portfolio/blob/main/fundamentals/Classification_Examples.ipynb)
   * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb)
