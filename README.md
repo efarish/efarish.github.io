@@ -16,7 +16,7 @@
   * [Classification Examples](https://github.com/efarish/portfolio/blob/main/fundamentals/Classification_Examples.ipynb)
   * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb)
   * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb)
-  * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu) - An example of training a PyTorch model on multiple GPUs. 
+  * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu) 
 * [LLM Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm): Implemented using AWS, Streamlit, OpenAI, and LangChain  
   * [Simple RAG](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
