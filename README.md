@@ -20,7 +20,7 @@
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, Streamlit, OpenAI, and LangChain
   * [Fine-tune a LLM](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune): Fine-tunning a Hugging Face GPT2 model and inference experiments.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
-  * [Conversational RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
+  * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
   *  [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to implement agents and a supervisor of the agents. 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
