@@ -1,4 +1,4 @@
-# Machine Learning Developer
+# Machine Learning Portfolio
 
 ## Education
 * M.S. Data Science, Johns Hopkins University, GPA 3.86 (December 2023)
