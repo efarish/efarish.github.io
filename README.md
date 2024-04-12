@@ -18,7 +18,7 @@
   * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb)
   * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu) 
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, Streamlit, OpenAI, and LangChain
-  * [Fine-tune a LLM](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune): Fine-tunning a Hugging Face GPT2 model and inference experiments.
+  * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
