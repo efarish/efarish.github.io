@@ -7,7 +7,7 @@
 ## Technical Skills
 * Programming Languages: Python, Java, SQL, Linux scripting
 * Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Kubernetes 
-* Algorithms: Linear Regression, K-NN, SVM, Random Forest, and MLP
+* Algorithms: Linear Regression, K-NNSVM, Random Forest, boosting methods, and MLP
 * Technologies: Deep Learning, NLP Large Language Models (LLM) 
 * Platforms: Colab, SageMaker, and Anaconda
 
@@ -25,4 +25,5 @@
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to implement agents and a supervisor LLM to route requests to the agents. 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of factors that lead to COVID-19 mortality as part of my masters degree.
-  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the NN architectures the evolved into Transformers. 
+  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the NN architectures the evolved into Transformers.
+  * Using [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms to analyze a dataset.
