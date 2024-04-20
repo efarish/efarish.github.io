@@ -17,7 +17,7 @@
   * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb)
   * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb)
   * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu)
-  * Using [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms and Bayesian optimization to analyze a dataset.
+  * Using Bayesian optimization to tune [Boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms.
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, Streamlit, OpenAI, and LangChain
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
