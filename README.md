@@ -5,21 +5,21 @@
 * B.S. Finance, Indiana University of Pennsylvanai, GPA 4.0 (May 1992)
 
 ## Technical Skills
-* Programming Languages: Python, Java, SQL, Linux scripting
-* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Kubernetes 
-* Algorithms: Linear Regression, K-NN, SVM, Random Forest, boosting methods, and MLP
-* Technologies: Deep Learning, NLP Large Language Models (LLM) 
-* Platforms: Colab, SageMaker, and Anaconda
+* Programming Languages: Python, Java, SQL, Linux scripting.
+* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Kubernetes. 
+* Algorithms: Linear Regression, K-NN, SVM, Random Forest, boosting methods, and MLP.
+* Technologies: Deep Learning, NLP Large Language Models (LLM). 
+* Platforms: Colab, SageMaker, and Anaconda.
 
 ## Machine Learning Projects ([all projects](https://github.com/efarish/portfolio))
 * [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Example implementations of common ML algorithms.
-  * [Classification Examples](https://github.com/efarish/portfolio/blob/main/fundamentals/Classification_Examples.ipynb)
-  * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb)
-  * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb)
-  * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu)
+  * [Classification Examples](https://github.com/efarish/portfolio/blob/main/fundamentals/Classification_Examples.ipynb).
+  * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb).
+  * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb).
+  * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu).
   * Using Bayesian optimization to tune [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms.
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
-* [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, OpenAI, and LangChain
+* [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, OpenAI, and LangChain.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
