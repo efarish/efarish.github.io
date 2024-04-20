@@ -21,7 +21,7 @@
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
-  * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
+  * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo. 
