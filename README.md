@@ -19,7 +19,7 @@
   * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu).
   * Using Bayesian optimization to tune [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms.
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
-* [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Implemented using Hugging Face, AWS, OpenAI, and LangChain.
+* [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A Streamlit client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
