@@ -12,7 +12,7 @@
 * Platforms: Colab, SageMaker, and Anaconda.
 
 ## Machine Learning Projects ([GitHub](https://github.com/efarish/portfolio))
-* [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Examples of implementating common ML algorithms.
+* [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Examples of implementating common ML algorithms and techniques.
   * [Classification examples](https://github.com/efarish/portfolio/blob/main/fundamentals/Classification_Examples.ipynb).
   * [MLP vs. CNN Image Classification](https://github.com/efarish/portfolio/blob/main/fundamentals/MLP_vs_CNN_Classification.ipynb).
   * [Ensemble Learning](https://github.com/efarish/portfolio/blob/main/fundamentals/Ensemble_Learning.ipynb).
