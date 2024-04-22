@@ -28,6 +28,6 @@
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
-  * [NYC Crime](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau dashboard visualizing NYC crime statistics for 2021.
+  * [NYC Crime](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau visualization of NYC crime in 2021.
   * [Music Genre Classification](https://github.com/efarish/portfolio/tree/main/research/genre): Classification of MP3 files.
 
