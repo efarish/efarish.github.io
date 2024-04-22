@@ -28,4 +28,5 @@
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of factors that lead to COVID-19 mortality as part of my masters degree.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the NN architectures the evolved into Transformers.
+  * [Interactive Visualization using Tableau](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau dashboard visualizing NYC crime statistics for 2021.
 
