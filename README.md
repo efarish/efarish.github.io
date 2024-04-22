@@ -26,8 +26,8 @@
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo. 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
-  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of factors that lead to COVID-19 mortality as part of my masters degree.
-  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the NN architectures the evolved into Transformers.
-  * [Interactive Visualization](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau dashboard visualizing NYC crime statistics for 2021.
-  * [Music Genre Classification](https://github.com/efarish/portfolio/tree/main/research/genre): Genre classification of MP3 music files.
+  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
+  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
+  * [NYC Crime](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau dashboard visualizing NYC crime statistics for 2021.
+  * [Music Genre Classification](https://github.com/efarish/portfolio/tree/main/research/genre): Classification of MP3 files.
 
