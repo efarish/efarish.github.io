@@ -2,7 +2,7 @@
 
 ## Education
 * M.S. Data Science, Johns Hopkins University, GPA 3.86 (December 2023)
-* B.S. Finance, Indiana University of Pennsylvanai, GPA 4.0 (May 1992)
+* B.S. Finance, Indiana University of Pennsylvania, GPA 4.0 
 
 ## Technical Skills
 * Programming Languages: Python, Java, SQL, Linux scripting.
