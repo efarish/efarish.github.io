@@ -24,7 +24,8 @@
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
-  * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo. 
+  * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo.
+  * [Using LLMs to Create Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using LangChain, OpenAI, neo4j, and yworks to visualize the first chapter of the novel Dune.
 * [AWS SageMaker](https://github.com/efarish/portfolio/tree/main/aws): Examples of using SageMaker containers to prototype, optimize, and train machine learning algorithms.
 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
