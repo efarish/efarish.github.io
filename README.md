@@ -22,7 +22,9 @@
   * [Curation Of NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Examples of simple curation done for NER data while creating Knowledge Graphs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute RAG programs, a framework to algorithmically optimize LLM prompts.
-* [AWS SageMaker](https://github.com/efarish/portfolio/tree/main/aws): Examples of using SageMaker containers to prototype, optimize, and train machine learning algorithms.
+* [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
+  * Using SageMaker containers to prototype, optimize, and train machine learning algorithms.
+  * Using AWS Serverless Application Model (SAM) to deploy AWS services.
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
