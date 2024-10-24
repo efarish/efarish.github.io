@@ -9,7 +9,7 @@
 * Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Kubernetes. 
 * Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
 * Technologies: Deep Learning, NLP Large Language Models (LLM). 
-* Platforms: Colab, SageMaker, and Anaconda.
+* Platforms: Colab, AWS (SageMaker, API Gateway, Lambda, S3, EKS, ECR), and Anaconda.
 
 ## Machine Learning Projects ([GitHub](https://github.com/efarish/portfolio))
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
