@@ -25,6 +25,7 @@
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
   * Using SageMaker containers to prototype, optimize, and train machine learning algorithms.
   * Using AWS Serverless Application Model (SAM) to deploy AWS services.
+  * Creating a CloudFormation stack to deploy an Docker ECS microservice. 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
