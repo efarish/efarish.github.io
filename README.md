@@ -11,7 +11,12 @@
 * Technologies: Deep Learning, NLP Large Language Models (LLM). 
 * Platforms: Colab, AWS (SageMaker, API Gateway, Lambda, S3, EKS, ECR), and Anaconda.
 
-## Machine Learning Projects ([GitHub](https://github.com/efarish/portfolio))
+## Portfolio Projects ([GitHub](https://github.com/efarish/portfolio))
+* [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
+  * Using SageMaker containers to prototype, optimize, and train machine learning algorithms.
+  * AWS Serverless Application Model (SAM) to deploy AWS Lambda functions.
+  * CloudFormation and Docker to create containerized ECS microservice.
+  * Using AWS Service Connect for API Gateway and service-to-service communications
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
@@ -22,10 +27,6 @@
   * [Curation Of NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Examples of simple curation done for NER data while creating Knowledge Graphs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute RAG programs, a framework to algorithmically optimize LLM prompts.
-* [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
-  * Using SageMaker containers to prototype, optimize, and train machine learning algorithms.
-  * Using AWS Serverless Application Model (SAM) to deploy AWS services.
-  * Creating a CloudFormation stack to deploy an Docker ECS microservice. 
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
