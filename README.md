@@ -16,7 +16,8 @@
   * Using SageMaker containers to prototype, optimize, and train machine learning algorithms.
   * AWS Serverless Application Model (SAM) to deploy AWS Lambda functions.
   * CloudFormation and Docker to create containerized ECS microservice.
-  * Using AWS Service Connect for API Gateway and service-to-service communications.
+  * Using AWS Cloud Map for API Gateway and ECS integration.
+  * Using AWS Service Connect for ECS service-to-service communication.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
