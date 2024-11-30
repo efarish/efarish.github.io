@@ -6,10 +6,10 @@
 
 ## Technical Skills
 * Programming Languages: Python, Java, SQL, Linux scripting.
-* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Kubernetes. 
+* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes. 
 * Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
 * Technologies: Deep Learning, NLP Large Language Models (LLM). 
-* Platforms: Colab, AWS (SageMaker, API Gateway, Lambda, S3, EKS, ECR), and Anaconda.
+* Platforms: Colab and AWS services.
 
 ## Portfolio Projects ([GitHub](https://github.com/efarish/portfolio))
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
