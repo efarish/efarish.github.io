@@ -17,7 +17,7 @@
   * [AWS Serverless Application Model (SAM)](https://github.com/efarish/portfolio/tree/main/aws/sam_lambda_s3) to deploy AWS Lambda functions.
   * Using [AWS Cloud Map](https://github.com/efarish/portfolio/tree/main/aws/ecs_docker) for API Gateway and ECS integration.
   * Using [AWS Service Connect](https://github.com/efarish/portfolio/tree/main/aws/ecs_service_connect) for ECS service-to-service communication.
-  * Using [AWS CodePipelines](https://github.com/efarish/portfolio/tree/main/aws/codepipeline_docker_ecs) pipelines to manage an ECS cluster.
+  * Using [AWS CodePipelines](https://github.com/efarish/portfolio/tree/main/aws/codepipeline_docker_ecs) to manage an ECS cluster.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
