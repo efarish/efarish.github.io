@@ -11,7 +11,7 @@
 * Technologies: Deep Learning, NLP Large Language Models (LLM). 
 * Platforms: Colab and AWS services.
 
-## Portfolio Projects ([GitHub](https://github.com/efarish/portfolio))
+## [Portfolio Projects](https://github.com/efarish/portfolio)
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
   * Using [SageMaker containers](https://github.com/efarish/portfolio/tree/main/aws) to prototype, optimize, and train machine learning algorithms.
   * [AWS Serverless Application Model (SAM)](https://github.com/efarish/portfolio/tree/main/aws/sam_lambda_s3) to deploy AWS Lambda functions.
