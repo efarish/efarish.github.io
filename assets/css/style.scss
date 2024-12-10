@@ -3,19 +3,4 @@
 
 @import "{{ site.theme }}";
 
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
 
-header {
-  padding-right:320px;
-}
-
-section {
-  width:550px;
-  float:right;
-  padding-bottom:50px;
-}
