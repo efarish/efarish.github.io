@@ -20,9 +20,9 @@
   * Using [AWS CodePipelines](https://github.com/efarish/portfolio/tree/main/aws/codepipeline_docker_ecs) to manage an ECS cluster.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
-  * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A web client making RAG requests to an AWS ECS RAG endpoint.
-  * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): Enhanced version of Simple RAG with conversational memory.
-  * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): AWS EKS deployed RAG that evaluates retrieved context and returns appropriate results.
+  * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A RAG endpoint deployed to AWS ECS.
+  * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): RAG with conversational memory.
+  * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): An AWS EKS RAG endpoint that uses an LLM ot iteratively improve RAG reponses.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo.
   * [Using LLMs to Create Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using LangChain, OpenAI, neo4j, and yworks to visualize the first chapter of the novel Dune.
   * [Curation Of NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Examples of simple curation done for NER data while creating Knowledge Graphs.
