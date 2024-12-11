@@ -7,7 +7,7 @@
 ## Technical Skills
 * Programming Languages: Python, Java, SQL, Linux scripting.
 * Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes. 
-* Machine Learning Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
+* ML Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
 * Technologies: Deep Learning, NLP Large Language Models (LLM). 
 * Platforms: Colab and AWS services.
 
