@@ -15,7 +15,7 @@
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
   * Using [SageMaker containers](https://github.com/efarish/portfolio/tree/main/aws) to prototype, optimize, and train machine learning algorithms.
   * [AWS Serverless Application Model (SAM)](https://github.com/efarish/portfolio/tree/main/aws/sam_lambda_s3) to deploy AWS Lambda functions.
-  * Using [AWS Cloud Map](https://github.com/efarish/portfolio/tree/main/aws/ecs_docker) for API Gateway and ECS integration.
+  * Using [ALB and Cloud Map](https://github.com/efarish/portfolio/tree/main/aws/ecs_docker) for API Gateway and ECS integration.
   * Using [AWS Service Connect](https://github.com/efarish/portfolio/tree/main/aws/ecs_service_connect) for ECS service-to-service communication.
   * Using [AWS CodePipelines](https://github.com/efarish/portfolio/tree/main/aws/codepipeline_docker_ecs) to manage an ECS cluster.
 * [LLM Projects](https://github.com/efarish/portfolio/tree/main/llm): Using Hugging Face, AWS, OpenAI, LangChain, etc.
