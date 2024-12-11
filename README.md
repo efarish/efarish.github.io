@@ -25,9 +25,9 @@
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): An AWS EKS RAG endpoint that uses an LLM ot iteratively improve RAG reponses.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route requests to agents.
   * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using an LLM and Neo4j to create knowledge graphs from NER data.
-  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Curating NER data to create a Neo4j knowledge graph.
+  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): LLM curated NER data used to create Neo4j knowledge graphs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
-  * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute RAG programs, a framework to algorithmically optimize LLM prompts.
+  * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute to optimize RAG.
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
