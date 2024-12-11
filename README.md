@@ -25,12 +25,12 @@
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): Using LLMs to iteratively improve RAG reponses.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route requests to agents.
   * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Creating KGs using LLMs and Neo4j.
-  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Using an LLM to curate NER data and create KGs.
-  * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
-  * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute to optimize RAG.
+  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Using an LLM to curate NER data to create KGs.
+  * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): RAG context retrieval using the Personalized PageRank algorithm.
+  * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using the DSPy framework to optimize RAG.
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
-  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): An analysis of COVID-19 mortality factors.
-  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A video presentation on the evolution of Transformers.
+  * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): COVID-19 mortality factors analysis.
+  * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A presentation on the evolution of Transformers.
   * [NYC Crime](https://github.com/efarish/portfolio/blob/main/research/crime/): A Tableau visualization of NYC crime in 2021.
   * [Music Genre Classification](https://github.com/efarish/portfolio/tree/main/research/genre): Classification of MP3 files.
 * [ML Fundamentals](https://github.com/efarish/portfolio/tree/main/fundamentals): Examples of common ML algorithms and techniques.
