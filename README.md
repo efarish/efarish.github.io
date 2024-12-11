@@ -25,7 +25,7 @@
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): An AWS EKS RAG endpoint that uses an LLM ot iteratively improve RAG reponses.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route requests to agents.
   * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using an LLM and Neo4j to create knowledge graphs from NER data.
-  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Curating NER data to create a knowledge graphs.
+  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Curating NER data to create a Neo4j knowledge graph.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute RAG programs, a framework to algorithmically optimize LLM prompts.
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
