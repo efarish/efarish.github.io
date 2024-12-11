@@ -8,7 +8,7 @@
 * Programming Languages: Python, Java, SQL, Linux scripting.
 * Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes. 
 * ML Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
-* Technologies: Deep Learning, NLP Large Language Models (LLM). 
+* Technologies: Deep Learning, Large Language Models (LLM). 
 * Platforms: Colab and AWS services.
 
 ## [Portfolio Projects](https://github.com/efarish/portfolio)
