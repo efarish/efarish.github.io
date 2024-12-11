@@ -23,8 +23,8 @@
   * [Simple Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): A RAG endpoint deployed to AWS ECS.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): RAG with conversational memory.
   * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): An AWS EKS RAG endpoint that uses an LLM ot iteratively improve RAG reponses.
-  * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route tasks to agents implemented using Python, LangChain, LangGraph, and GPT 3.5 Turbo.
-  * [Using LLMs to Create Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using LangChain, OpenAI, neo4j, and yworks to visualize the first chapter of the novel Dune.
+  * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route requests to agents.
+  * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using an LLM and Neo4j to create knowledge graphs for entities extracted from text.
   * [Curation Of NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Examples of simple curation done for NER data while creating Knowledge Graphs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute RAG programs, a framework to algorithmically optimize LLM prompts.
