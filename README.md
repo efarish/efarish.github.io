@@ -40,5 +40,5 @@
   * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu).
   * Using Bayesian optimization to tune [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms.
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
-* [Mobile Application](https://github.com/efarish/portfolio/tree/main/mobile/kivy_img_post): Using Python and Kivy to create cloud integrated mobile device application.
+* [Mobile Application](https://github.com/efarish/portfolio/tree/main/mobile/kivy_img_post): Using Python and Kivy to create a mobile device application.
 
