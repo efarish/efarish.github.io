@@ -22,10 +22,10 @@
   * Fine-tuning [GPT-2](https://github.com/efarish/portfolio/tree/main/llm/gpt_finetune) and [Llama 2](https://github.com/efarish/portfolio/tree/main/llm/llama_finetune) using a Hugging Face APIs.
   * [Retrieval-Augmented Generation (RAG)](https://github.com/efarish/portfolio/tree/main/llm/simple_rag): An AWS ECS RAG endpoint.
   * [Conversational-RAG](https://github.com/efarish/portfolio/tree/main/llm/conv_rag): RAG with conversational memory.
-  * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): An AWS EKS RAG endpoint using an LLM to improve RAG reponses.
+  * [Corrective-RAG](https://github.com/efarish/portfolio/blob/main/llm/corrective_rag/): Using LLMs to iteratively improve RAG reponses.
   * [Multi-Agent Supervisor](https://github.com/efarish/portfolio/tree/main/llm/agents): Using LLMs to route requests to agents.
-  * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Using an LLM and Neo4j to create knowledge graphs from NER data.
-  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): LLM curated NER data used to create Neo4j knowledge graphs.
+  * [LLMs And Knowledge Graphs](https://github.com/efarish/portfolio/tree/main/llm/graph): Creating KGs using LLMs and Neo4j.
+  * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Using an LLM to curate NER data and create KGs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): A more efficient verion of RAG using the Personalized PageRank algorithm (PPR).
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using DSPy (Declarative Self-improving Language Programs) to evalute to optimize RAG.
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
