@@ -12,6 +12,7 @@
 * Platforms: Colab and AWS services.
 
 ## [Portfolio Projects](https://github.com/efarish/portfolio)
+* [Mobile Applications](https://github.com/efarish/portfolio/tree/main/mobile): Using Python to create a mobile device applications.
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
   * [AWS Serverless Application Model (SAM)](https://github.com/efarish/portfolio/tree/main/aws/sam_lambda_s3) to deploy AWS Lambda functions.
   * Using [ALB and Cloud Map](https://github.com/efarish/portfolio/tree/main/aws/ecs_docker) for API Gateway and ECS integration.
@@ -40,5 +41,5 @@
   * [PyTorch Muli-GPU Training](https://github.com/efarish/portfolio/tree/main/fundamentals/multi_gpu).
   * Using Bayesian optimization to tune [boosting](https://github.com/efarish/portfolio/tree/main/research/abalone) algorithms.
   * [Hyperparameter tuning](https://github.com/efarish/portfolio/tree/main/fundamentals/tuning) a PyTorch model using Optuna.
-* [Mobile Application](https://github.com/efarish/portfolio/tree/main/mobile/kivy_img_post): Using Python and Kivy to create a mobile device application.
+
 
