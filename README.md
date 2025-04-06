@@ -12,7 +12,7 @@
 * Platforms: Colab and AWS services.
 
 ## [Portfolio Projects](https://github.com/efarish/portfolio)
-* [Mobile Applications](https://github.com/efarish/portfolio/tree/main/mobile): Using Python, Kivy, and AWS to create a mobile device applications.
+* [Mobile Applications](https://github.com/efarish/portfolio/tree/main/mobile): Creating mobile apps using Python, Kivy, and AWS.
   * [GPS Device Tracker](https://github.com/efarish/portfolio/tree/main/mobile/kivy_gps_tracker):  A mobile device location.
   * [Image Classification](https://github.com/efarish/portfolio/tree/main/mobile/kivy_img_post): An app to classify images taken using an Android camera.
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
