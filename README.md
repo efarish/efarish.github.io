@@ -16,7 +16,7 @@
   * [GPS Device Tracker](https://github.com/efarish/portfolio/tree/main/mobile/kivy_gps_tracker):  A mobile device location.
   * [Image Classification](https://github.com/efarish/portfolio/tree/main/mobile/kivy_img_post): An app to classify images taken using an Android camera.
 * [AWS Projects](https://github.com/efarish/portfolio/tree/main/aws): Various projects utilizing AWS services.
-  * [Lambda-RDS](https://github.com/efarish/portfolio/tree/main/aws/lambda_rds): Connecting to a PostgreSQL using SQAlchemy from Lambda.
+  * [Lambda-RDS](https://github.com/efarish/portfolio/tree/main/aws/lambda_rds): Connecting to a PostgreSQL using SQLAlchemy from Lambda.
   * [AWS Serverless Application Model (SAM)](https://github.com/efarish/portfolio/tree/main/aws/sam_lambda_s3) to deploy AWS Lambda functions.
   * Using [ALB and Cloud Map](https://github.com/efarish/portfolio/tree/main/aws/ecs_docker) for API Gateway and ECS integration.
   * Using [AWS Service Connect](https://github.com/efarish/portfolio/tree/main/aws/ecs_service_connect) for ECS service-to-service communication.
