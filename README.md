@@ -5,8 +5,9 @@
 * B.S. Finance, Indiana University of Pennsylvania, GPA 4.0 
 
 ## Technical Skills
-* Programming Languages: Python, Java, SQL, Linux scripting.
-* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes. 
+* Programming Languages: Python, SQL, Linux scripting.
+* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes.
+* API Development: REST, GraphQL  
 * ML Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
 * Technologies: Deep Learning, Large Language Models (LLM). 
 * Platforms: Colab and AWS services.
