@@ -6,11 +6,11 @@
 
 ## Technical Skills
 * Programming Languages: Python, SQL, Linux scripting.
-* Frameworks: LangChain, Hugging Face, PyTorch, Scikit-Learn, Docker, Kubernetes.
+* Frameworks: Docker, FastAPI, Flask, LangChain, NumPy, Pandas, PyTorch, Scikit-Learn.
 * API Development: REST, GraphQL  
 * ML Algorithms: K-NN, SVM, Random Forest, boosting methods, and MLP.
 * Technologies: Deep Learning, Large Language Models (LLM). 
-* Platforms: Colab and AWS services.
+* Platforms: Colab, AWS services.
 
 ## [Portfolio Projects](https://github.com/efarish/portfolio)
 * [Mobile Applications](https://github.com/efarish/portfolio/tree/main/mobile): Creating mobile apps using Python, Kivy, and AWS.
