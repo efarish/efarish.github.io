@@ -34,6 +34,7 @@
   * [Curating NER data for KGs](https://github.com/efarish/portfolio/tree/main/llm/graph_curation): Using an LLM to curate NER data to create KGs.
   * [HippoRAG](https://github.com/efarish/portfolio/tree/main/llm/hippo_rag): RAG context retrieval using the Personalized PageRank algorithm.
   * [RAG and DSPy](https://github.com/efarish/dspy_rag/tree/main): Using the DSPy framework to optimize RAG.
+  * [RAG OnDemand](https://github.com/efarish/portfolio/tree/main/llm/rag_ondemand): RESTful API providing RAG services.  
 * [Research Projects](https://github.com/efarish/portfolio/tree/main/research):
   * [COVID-19 Feature Importance Analysis](https://github.com/efarish/portfolio/tree/main/research/covid): COVID-19 mortality factors analysis.
   * [Evolution of Transformers](https://github.com/efarish/portfolio/tree/main/research/transformers): A presentation on the evolution of Transformers.
